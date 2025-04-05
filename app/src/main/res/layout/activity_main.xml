@@ -8,6 +8,15 @@
     android:backgroundTint="#172973"
     tools:context=".MainActivity">
 
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="52dp"
+        android:layout_height="13dp"
+        android:text="USUÁRIO"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="100dp"

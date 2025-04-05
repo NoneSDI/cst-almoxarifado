@@ -7,6 +7,15 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="52dp"
+        android:layout_height="13dp"
+        android:text="USUÁRIO"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
