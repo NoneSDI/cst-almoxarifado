@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168742814328",
+    "project_id": "almoxarifado-cst",
+    "storage_bucket": "almoxarifado-cst.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168742814328:android:5ccdc4482202e774f8e38d",
+        "android_client_info": {
+          "package_name": "com.example.projetofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHEMS6iCvzm1yagH1y8zi5ysZnJkKuXng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
